@@ -10,7 +10,7 @@ Puedes ir directamente al LogIn desde la barra de navegación y verás la pesta�
 
 Una vez que hayas iniciado sesión, serás redireccionado al Home donde debes ver un mensaje de inicio de sesión debajo de la imágen del pokemon.
 
-![Welcome Page](/welcome-page.png)
+![Welcome Page](public/welcome-page.png)
 
 La barra de navegación también cambiará
 
