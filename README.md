@@ -1,5 +1,7 @@
 # Router - II
 
+:octocat:
+
 Para poder utilizar las funcionalidades de la página se debe iniciar sesión con las siguientes credenciales:
 - username: user
 - password: password
@@ -16,7 +18,6 @@ La barra de navegación también cambiará
 
 ![Barra de Navegación](public//NavBar.png)
 
-Perfecto!! Ahora podrás seleccionar un pokemon desde la barra de dirección `Pokemons` y ver toda su información. 
+Perfecto!! Ahora podrás seleccionar un pokemon desde la barra de dirección `Pokemons` y ver toda su información. :shipit:
 
 
-:octocat: :shipit:
