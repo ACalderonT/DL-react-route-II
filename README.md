@@ -14,7 +14,7 @@ Una vez que hayas iniciado sesión, serás redireccionado al Home donde debes ve
 
 La barra de navegación también cambiará
 
-![Barra de Navegación]("/NavBar.png")
+![Barra de Navegación](public//NavBar.png)
 
 Perfecto!! Ahora podrás seleccionar un pokemon desde la barra de dirección `Pokemons` y ver toda su información. 
 
